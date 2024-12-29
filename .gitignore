@@ -38,6 +38,7 @@ fastlane/test_output
 
 # Ignore API keys
 APIKeys.swift
+Phase_3/api.swift
 Secrets.plist
 
 # Xcode-specific files
